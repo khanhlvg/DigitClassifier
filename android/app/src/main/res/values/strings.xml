@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Digit Classifier</string>
+    <string name="clear_button_text">Clear</string>
+    <string name="prediction_text_placeholder">Please draw a digit</string>
+</resources>
